@@ -107,3 +107,11 @@ Follow these steps to get the application running on your local machine:
 * **JSP for Output**: Instead of writing HTML directly in `ShowOutput.java`, forward the request to a JSP page to display the output, separating concerns (logic from presentation).
 * **MVC Pattern**: Refactor the application to follow the Model-View-Controller (MVC) architectural pattern for better organization and scalability.
 * **Build Automation**: Use Maven or Gradle to manage dependencies and build processes more efficiently.
+
+---
+
+## 📧 Contact
+
+Made with ❤️ by [Annwesha Naha]  
+📧 Email: annweshanaha2005@gmail.com
+🔗 GitHub: [Annwesha10](https://github.com/Annwesha10)
